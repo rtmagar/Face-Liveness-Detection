@@ -60,4 +60,3 @@ __liveness_demo.py__: Script to conduct face liveness detection through webcam i
 3 Run `python liveness_demo.py --model output/liveness.model --le output/le.pickle --detector face_eye_detector`
 
 Press 'q' to close window and perform cleanup
-# Face-Liveness-Detection
